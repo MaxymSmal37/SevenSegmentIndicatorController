@@ -27,3 +27,6 @@ Thumbs.db
 
 # Ignore targetConfigs folder
 /targetConfigs/
+
+# Ignore CCS linker command files
+*.cmd
