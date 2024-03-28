@@ -24,3 +24,6 @@ release/
 # Ignore system generated files
 .DS_Store
 Thumbs.db
+
+# Ignore targetConfigs folder
+/targetConfigs/
