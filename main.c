@@ -27,7 +27,6 @@ void printLine(unsigned int numberOfDisplay);
 void printDigit(unsigned int digit, unsigned int numberOfDisplay);
 void cycle_digit_animation();
 void printNumber(int number);
-int getTemperature();
 
 
 const unsigned int symbolForDigit[10] = {
